@@ -1,4 +1,4 @@
-#
+# SEGGREATED GUN VIOLENCE - IN A SEGGREGATED CITY, GUN VIOLENCE DISPROPORTIONATELY AFFECTS BLACK RESIDENTS
 
 Chicago is notorious for its high crime rate. While some of it is exaggerated, the windy city stands out among its peers. Its firearm homicide rate is [six times higher than New York City’s and three times higher than in Los Angeles](https://oneaimil.org/the-issue/impact-of-gun-violence/).
 
@@ -15,6 +15,6 @@ Gun violence is concentrated on the West and South Side, in a few specific neigh
 <img src="Screenshot 2023-11-16 at 11.09.12 AM.png"/>
 
 
-Using Census and EPA data, I also find that these are majoritarly Black neighborhoods.
+Using Census and EPA data, I also find that these are majoritarly non-White, and Black neighborhoods.
 
 
