@@ -1,4 +1,4 @@
-| [home page](https://itsmeriem.github.io/My-Data-Work/) | [Chicago's Gun Violence Epidemic](chicago-gun-violence.md)
+| [home page](https://itsmeriem.github.io/My-Data-Work/) | [Chicago's Gun Violence Epidemic](chicago-gun-violence.md) | [Federal Minimum Wage](federal-minimum-wage.md)
 
 **Welcome to my portfolio where I post my data work!** Here's where all my cool work will go. 
 
