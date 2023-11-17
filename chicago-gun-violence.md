@@ -1,6 +1,6 @@
 | [home page](https://itsmeriem.github.io/My-Data-Work/) | [Chicago's Gun Violence Epidemic](chicago-gun-violence.md) | [Federal Minimum Wage](federal-minimum-wage.md)
 
-# Mapping Chicago's Gun Violence: A History of Seggregation Created a Modern-Day Crisis
+# Mapping Chicago's Gun Violence: A History of Segregation Created a Modern-Day Crisis
 
 Chicago is notorious for its high crime rate. The windy city stands out among its peers. Its firearm homicide rate is [six times higher than New York City’s and three times higher than in Los Angeles](https://oneaimil.org/the-issue/impact-of-gun-violence/).
 
