@@ -16,6 +16,7 @@ Using data from the City of Chicago, the Census Bureau and the Environmental Pro
 </p>
 
 These same neighborhoods are predominantly Black. In addition to gun violence, they are hit the hardest by poverty. In a segregated city, gun violence disproportionately affect Black residents.
+
 <p align="center">
 <img src="black_pop.png" width="400"/> <img src="low_income.png" width="400"/>
 </p>
@@ -25,7 +26,7 @@ The areas hardest hit by Chicago’s gun violence epidemic face systemic issues 
 Institutionally discriminatory housing practices, discriminatory banking and urban policies have had a lasting impact on Chicago' south side. Black people moving to Chicago during the Great Migration [faced resistance](https://storymaps.arcgis.com/stories/292ebd8ff35b4bf2937b1524f4d871af) from white communities, which led to the 1919 race riots where 38 people died. Such tensions led to convenants to keep white neighborhoods white, by restricting the selling or leasing of homes to Black people. These racially restrictive convenants were enforced in the South Side both through [public policies and private institutions, like the University of Chicago](https://storymaps.arcgis.com/stories/292ebd8ff35b4bf2937b1524f4d871af). The infamous practice, known as "redlining", shares much of the blame for today's seggregated city. Redlining was a system implemented by the Federal Housing Administration that determinde the value of housing based on [the demographics of a neighborhood](https://interactive.wttw.com/firsthand/segregation/mapping-chicago-racial-segregation). The map below (sourced from [here](https://via.library.depaul.edu/mom/58/)) shows what redlining looked like in 1940 in Chicago. Most Black neighborhoods were deemed "undesirable" which restricted residents from accessing mortgages, and hence achieving social and economic mobility. These same neighborhoods still suffer today.
 
 <p align="center">
-<img src="Red Lining.png" width="400"/>
+<img src="Red Lining.png" width="500"/>
 </p>
 
 
