@@ -22,6 +22,6 @@ Hi!  I'm Meriem (she/her) and here's what you need to know about me:
 # Portfolio
 
 # Links
-[This Website](https://itsmeriem.github.io/My-Data-Work/)
+- [This Website](https://itsmeriem.github.io/My-Data-Work/)
 
-[This Repo](https://github.com/ItsMeriem/My-Data-Work)
+- [This Repo](https://github.com/ItsMeriem/My-Data-Work)
