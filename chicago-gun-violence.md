@@ -33,6 +33,6 @@ The infamous practice, known as "redlining," shares much of the blame for today'
 <img src="Red Lining.png" width="500"/>
 </p>
 
-While these practices have stopped, their effect is strong and alive. The concentration of poverty and gun violence in Black neighborhoods, shown in earlier maps, mirrors the "red lines". Given its deep-rooted history, this issue deserves to be looked at as a systemic one. 
+While these practices have stopped, their effect is strong and alive. The concentration of poverty and gun violence in Black neighborhoods, shown in earlier maps, mirrors the "red lines." This deep-rooted history is a systemic problem that will require a systemic solution.
 
 
