@@ -1,4 +1,4 @@
-| [home page](https://itsmeriem.github.io/My-Data-Work/) | [Chicago's Gun Violence Epidemic](chicago-gun-violence.md) | [Federal Minimum Wage](federal-minimum-wage.md)
+| [Home Page](https://itsmeriem.github.io/My-Data-Work/) | [Chicago's Gun Violence Epidemic](chicago-gun-violence.md) | [Federal Minimum Wage](federal-minimum-wage.md)
 
 # Who Makes at or Below Federal Minimum Wage?
 
